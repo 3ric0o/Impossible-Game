@@ -2570,7 +2570,7 @@ Transform:
   m_GameObject: {fileID: 234611622}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.3916879, y: 100.29356, z: 0}
+  m_LocalPosition: {x: 3.4450808, y: 45, z: 0}
   m_LocalScale: {x: 0.41809568, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7521,7 +7521,6 @@ GameObject:
   - component: {fileID: 638100908}
   - component: {fileID: 638100909}
   - component: {fileID: 638100911}
-  - component: {fileID: 638100910}
   m_Layer: 0
   m_Name: Layer 2
   m_TagString: Untagged
@@ -7596,22 +7595,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &638100910
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 638100907}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: ccb87101e4f83ad4f913e0414b291ff7, type: 2}
 --- !u!114 &638100911
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10525,7 +10508,7 @@ Transform:
   m_GameObject: {fileID: 832966211}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 83.22508, y: 5.5004325, z: -0.018019052}
+  m_LocalPosition: {x: 84.77164, y: 1.7487032, z: -0.018019052}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -15106,7 +15089,6 @@ GameObject:
   - component: {fileID: 1247500084}
   - component: {fileID: 1247500085}
   - component: {fileID: 1247500087}
-  - component: {fileID: 1247500086}
   m_Layer: 0
   m_Name: Layer 1
   m_TagString: Untagged
@@ -15181,22 +15163,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1247500086
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1247500083}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: a5f2c571da8ee3b498deb3857cc09160, type: 2}
 --- !u!114 &1247500087
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17407,7 +17373,7 @@ Transform:
   m_GameObject: {fileID: 1412787776}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 87.218864, y: 7.320273, z: -0.018019052}
+  m_LocalPosition: {x: 88.872444, y: 1.8060563, z: -0.018019052}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -22149,7 +22115,7 @@ Transform:
   m_GameObject: {fileID: 1761739686}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 106.80149, y: 6.741218, z: 0}
+  m_LocalPosition: {x: 108.5, y: 1.2499995, z: 0}
   m_LocalScale: {x: 0.1, y: 3.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -22581,7 +22547,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 37ae44a9dad7aae4490844e9a7b45bfe, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -25024,7 +24990,7 @@ Transform:
   m_GameObject: {fileID: 1982886400}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 79.23784, y: 3.5136116, z: -0.018019052}
+  m_LocalPosition: {x: 79.77481, y: 1.7487032, z: -0.018019052}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -26307,7 +26273,6 @@ GameObject:
   - component: {fileID: 2097040169}
   - component: {fileID: 2097040170}
   - component: {fileID: 2097040172}
-  - component: {fileID: 2097040171}
   m_Layer: 0
   m_Name: Layer 3
   m_TagString: Untagged
@@ -26382,22 +26347,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2097040171
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2097040168}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 6108a1441e1f131478ad6c619df5fbcb, type: 2}
 --- !u!114 &2097040172
 MonoBehaviour:
   m_ObjectHideFlags: 0
